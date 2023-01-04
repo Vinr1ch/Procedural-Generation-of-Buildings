@@ -1,0 +1,5 @@
+main => Repeat(2,10){B}
+B => Repeat(0,10){C}
+C => S(rnd<5-10>,rnd<30-60>,rnd<5-10>) I(cube)
+side => I(plain){windows}
+top => I(plain){blocks}

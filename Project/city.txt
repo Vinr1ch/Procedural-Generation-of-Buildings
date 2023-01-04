@@ -1,0 +1,6 @@
+main => S(15,10,15) RealRepeat(0,1){A} 
+A => RealRepeat(0,1){B}
+B => S(11,11,11) RealRepeat(1,rnd<4-10>){C}
+C => Comp(all){side,side,side,side,top,top}
+side => I(plain){windows}
+top => I(plain){blocks}
