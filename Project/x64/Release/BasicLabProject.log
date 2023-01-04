@@ -1,0 +1,22 @@
+﻿  Main.cpp
+  Textures.cpp
+  Visualiser.cpp
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(15,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(188,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(190,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(191,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(195,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(197,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(198,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(205,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(207,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(208,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(238,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(238,10): message : placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\BasicLabProject\Visualiser.cpp(238,10): message : the missing variadic argument 3 is required by format string '%2.2f'
+  Generating code
+  0 of 1421 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BasicLabProject.vcxproj -> C:\Users\vinri\Desktop\Spring 2021\FinalProject-ProcedaulBuildings - Copy\VS2012\OpenGLFramework\x64\Release\BasicLabProject.exe
